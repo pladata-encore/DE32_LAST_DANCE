@@ -1,6 +1,6 @@
 # DE32_LAST_DANCE
 
-### Team 2 Role & Responsibility
+## Team 2 Role & Responsibility
 
 | 역할                    | 이름 | 책임                                           |
 |-------------------------|------|------------------------------------------------|
