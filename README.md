@@ -6,4 +6,4 @@
 | 장규석 | **AC** (Agile Coach) |
 | 안정은 | **TL** (Tech Leader) |
 | 최우현 | **AA** (Application Architect) |
-| 박수진 | **예능부장** |
+| 박수진 | **GL** (Gag Leader)|
