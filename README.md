@@ -1,5 +1,9 @@
 # DE32_LAST_DANCE
 
+## Team 2 Final Project 주제
+** 여러 채용 웹사이트의 공고를 직업별로 종합하여 요구사항들을 요약해주는 서비스 **
+[팀 링크](https://github.com/DE32FinalTeam2)
+
 ## Team 2 Role & Responsibility
 
 | 역할                    | 이름 | 책임                                           |
