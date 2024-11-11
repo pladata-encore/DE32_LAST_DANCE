@@ -4,6 +4,7 @@
 **여러 채용 웹사이트의 공고를 직업별로 종합하여 요구사항들을 요약해주는 서비스**
 
 [팀 링크](https://github.com/DE32FinalTeam2)
+[팀 레포지토리](https://github.com/DE32FinalTeam2/FinalRepo)
 
 ## Team 2 Role & Responsibility
 
