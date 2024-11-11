@@ -1,9 +1,9 @@
 # DE32_LAST_DANCE
 
-## Team 2 Final Project 주제
+## Team 5 Final Project 주제
 **맛집, 축제 주변 주차장 정보 제공 및 추천 시스템**
 
-## Team 2 Role & Responsibility
+## Team 5 Role & Responsibility
 
 | 역할                    | 이름 | 책임                                           |
 |-------------------------|------|------------------------------------------------|
