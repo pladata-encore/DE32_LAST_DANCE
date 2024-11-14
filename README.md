@@ -1,8 +1,9 @@
-# Samdulshop Last Dance
+# 🎉 **Samdulshop Last Dance** 🎶
 - [Playdata] 데이터 엔지니어링 32기 Final Project
 
+----
 
-## Team2
+### 👥 Team2
 - 여러 채용 웹사이트의 공고를 직업별로 종합하여 요구사항들을 요약해주는 서비스
 - https://github.com/DE32FinalTeam2
 - https://github.com/DE32FinalTeam2/FinalRepo
@@ -15,8 +16,9 @@
   | 형상 및 배포 책임자 (AA) |  김도현  | 형상 관리 및 배포, 배포 관련 애로 사항 해결    |
   | 예능 부장(GL)           | 김동욱 | 팀 내 분위기 조성, 팀원들과의 고충 나눔          |
 
+----
 
-## Team3 (GEEK)
+### 👥 Team3 (GEEK)
 - 음악 취향 기반 채팅 서비스
 - https://github.com/DE32-final-team3/final-team3
 
@@ -57,7 +59,9 @@
       - 배포 및 관리: AWS EC2, Docker, Airflow
   </details>
 
-## Team 5
+----
+
+### 👥 Team5
 - 맛집, 축제 주변 주차장 정보 제공 및 추천 시스템
 - https://github.com/DE-32-5-Team5/docker_up/releases/tag/0.4
 
