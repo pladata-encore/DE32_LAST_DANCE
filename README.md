@@ -1,34 +1,58 @@
-# [Playdata] 데이터 엔지니어링 32기 Final Project
-
-## 3팀(GEEK) Role and Responsibility
-
-| Name | Role |
-|:------:|:--------|
-| 임영인 | **PM** (Project Manager) |
-| 장규석 | **AC** (Agile Coach) |
-| 안정은 | **TL** (Tech Leader) |
-| 최우현 | **AA** (Application Architect) |
-| 박수진 | **GL** (Gag Leader)|
+# Samdulshop Last Dance
+- [Playdata] 데이터 엔지니어링 32기 Final Project
 
 
-##  프로젝트 개요 : 음악 취향 기반 채팅 서비스
-### 서비스 목적
-사용자의 음악 취향을 분석하여 비슷한 취향을 가진 사람들을 매칭하고, 이들이 채팅을 통해 대화할 수 있는 플랫폼을 제공합니다. 사용자는 음악을 통해 공통된 관심사를 가진 사람들과 연결될 수 있습니다.
+## Team2
+- 여러 채용 웹사이트의 공고를 직업별로 종합하여 요구사항들을 요약해주는 서비스
+- https://github.com/DE32FinalTeam2
+- https://github.com/DE32FinalTeam2/FinalRepo
 
-### 핵심 기능
-1. 사용자 프로필 생성 및 취향 분석
-  Spotify 데이터를 통해 사용자의 음악 취향을 분석합니다.
-2. 매칭 시스템
-  유사한 취향을 가진 사용자끼리 매칭합니다.
-3. 실시간 채팅
-  매칭된 사용자들이 실시간으로 대화할 수 있습니다.
+  | 역할                    | 이름 | 책임                                           |
+  |-------------------------|------|------------------------------------------------|
+  | PM                  | 조하영 | 각 역할의 애로 사항 확인 및 관리                |
+  | 애자일 코치 (AC)    |  이상훈  | 팀원들의 기분과 팀 분위기 파악, 애로사항 논의     |
+  | 기술 리더 (TL)      |  이상우  | 기술적 문제 해결 및 방향 설정                   |
+  | 형상 및 배포 책임자 (AA) |  김도현  | 형상 관리 및 배포, 배포 관련 애로 사항 해결    |
+  | 예능 부장           | 김동욱 | 팀 내 분위기 조성, 팀원들과의 고충 나눔          |
 
-### 기술 스택
-- 프론트엔드: Flutter (Dart)
-- 백엔드: FastAPI, WebSocket, Kafka
-- 데이터 분석: Spark, Pandas, NumPy
-- 데이터베이스: MariaDB
-- 배포 및 관리: AWS EC2, Docker, Airflow
 
-### TEAM REPO
+## Team3 (GEEK)
+- 음악 취향 기반 채팅 서비스
 - https://github.com/DE32-final-team3/final-team3
+
+  | Name | Role |
+  |:------:|:--------|
+  | 임영인 | **PM** (Project Manager) |
+  | 장규석 | **AC** (Agile Coach) |
+  | 안정은 | **TL** (Tech Leader) |
+  | 최우현 | **AA** (Application Architect) |
+  | 박수진 | **GL** (Gag Leader)|
+
+  <details>
+      <summary>서비스 목적</summary>
+
+      사용자의 음악 취향을 분석하여 비슷한 취향을 가진 사람들을 매칭하고, 
+      이들이 채팅을 통해 대화할 수 있는 플랫폼을 제공합니다. 
+      사용자는 음악을 통해 공통된 관심사를 가진 사람들과 연결될 수 있습니다.
+  </details>
+
+    <details>
+      <summary>핵심 기능</summary>
+
+      1. 사용자 프로필 생성 및 취향 분석
+         = Spotify 데이터를 통해 사용자의 음악 취향을 분석합니다.
+      2. 매칭 시스템
+         = 유사한 취향을 가진 사용자끼리 매칭합니다.
+      3. 실시간 채팅
+         = 매칭된 사용자들이 실시간으로 대화할 수 있습니다.
+  </details>
+
+  <details>
+      <summary>기술 스택</summary>
+
+      - 프론트엔드: Flutter (Dart)
+      - 백엔드: FastAPI, WebSocket, Kafka
+      - 데이터 분석: Spark, Pandas, NumPy
+      - 데이터베이스: MariaDB
+      - 배포 및 관리: AWS EC2, Docker, Airflow
+  </details>
