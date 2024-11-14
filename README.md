@@ -3,6 +3,9 @@
 ## Team 5 Final Project 주제
 **맛집, 축제 주변 주차장 정보 제공 및 추천 시스템**
 
+## Repository
+[Team 5](https://github.com/DE-32-5-Team5/docker_up/releases/tag/0.4)
+
 ## Team 5 Role & Responsibility
 
 | 역할                    | 이름 | 책임                                           |
