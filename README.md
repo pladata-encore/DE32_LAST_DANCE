@@ -3,7 +3,7 @@
 ## Team4
 
 - 맞춤형 추천 기능을 포함하는 통합형 국내 여행지 추천/계획 서비스
-- https://github.com/orgs/Codulgi-final/repositories
+- https://github.com/TripCok
 
 ## 팀원
 
