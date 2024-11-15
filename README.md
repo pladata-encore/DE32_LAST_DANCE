@@ -1,6 +1,9 @@
 # 🎉 **Samdulshop Last Dance** 🎶
 - [Playdata] 데이터 엔지니어링 32기 Final Project
 
+-  [📅 일정](https://calendar.google.com/calendar/u/0?cid=ODNmNjcwYmRjNmUyZjliNzI0NjYxZjc1ZmJjMjRmYzY2N2M0ZGVlODlkZDlhMDNlNmZiM2I2OWQwM2QyM2I0MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [📂 문서](https://drive.google.com/drive/folders/1GgGjHdtOV-75hA63sfjJdtQX49QpWD7v?usp=drive_link)
+
 ----
 
 ### 👥 Team2
