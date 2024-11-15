@@ -3,6 +3,20 @@
 
 ----
 
+### 👥 Team1
+- 티켓 정보 통합 조회 플랫폼
+- 티켓 정보가 여러 플랫폼에 분산되어 있는 현재 상황에서 사용자가 공연, 스포츠 경기, 영화 등의 다양한 티켓을 한눈에 비교하고 구매할 수 있도록 돕는 플랫폼
+- https://github.com/Team1-TU-tech/final-team1
+
+  | 역할 | 이름 | 책임 |
+  |----|------|------|
+  | PM | 김태민 | 웹 개발 |
+  | AC | 정미은 | 크롤링 데이터 ETL |
+  | TL | 함선우 | 크롤링 데이터 ETL |
+  | AA | 오지현 | 웹 개발 |
+
+----
+
 ### 👥 Team2
 - 여러 채용 웹사이트의 공고를 직업별로 종합하여 요구사항들을 요약해주는 서비스
 - https://github.com/DE32FinalTeam2
@@ -58,6 +72,20 @@
       - 데이터베이스: MariaDB
       - 배포 및 관리: AWS EC2, Docker, Airflow
   </details>
+
+----
+### 👥 Team4
+
+- 맞춤형 추천 기능을 포함하는 통합형 국내 여행지 추천/계획 서비스
+- https://github.com/TripCok
+
+  ```
+  - PM (Project Manager): 이정훈
+  - AC (Agile Coach): 최하람
+  - TL (Technical Leader): - 김령래
+  - AA (Application Administrator) - 정세현
+  - 예능부장: 김예지
+  ```
 
 ----
 
