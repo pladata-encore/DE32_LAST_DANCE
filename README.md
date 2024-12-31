@@ -80,8 +80,7 @@
 ### 👥 Team4
 
 - 맞춤형 추천 기능을 포함하는 통합형 국내 여행지 추천/계획 서비스
-- https://github.com/TripCok
-
+- https://github.com/DE32-final-team4-TripCok/.github/tree/main
   ```
   - PM (Project Manager): 이정훈
   - AC (Agile Coach): 최하람
