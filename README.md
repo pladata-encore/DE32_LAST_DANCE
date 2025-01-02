@@ -1,4 +1,7 @@
 # 🎉 **Samdulshop Last Dance** 🎶
+
+![포효 (3)](https://github.com/user-attachments/assets/4beaf2e8-1c6a-4e7a-bbe5-cf0c8629266d)
+
 - [Playdata] 데이터 엔지니어링 32기 Final Project
 
 -  [📅 일정](https://calendar.google.com/calendar/u/0?cid=ODNmNjcwYmRjNmUyZjliNzI0NjYxZjc1ZmJjMjRmYzY2N2M0ZGVlODlkZDlhMDNlNmZiM2I2OWQwM2QyM2I0MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
